@@ -1,0 +1,4 @@
+.DS_Store
+.mypy_cache
+./web_scraping_project/Pipfile
+./web_scraping_project/Pipfile.lock
